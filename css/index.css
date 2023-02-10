@@ -1,10 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Fredoka+One&family=Josefin+Sans&family=Mukta&family=Nunito&family=Righteous&display=swap');
 
 .heading {
-    text-align: center;
-    font-family: 'Pacifico';
-    font-size: xx-large;
-}
+    color: #fff !important;
+    font-family: 'Comfortaa';
+    font-size: x-large;
+    text-decoration: none;
+    padding-top: var(--bs-navbar-brand-padding-y);
+    padding-bottom: var(--bs-navbar-brand-padding-y);
+    margin-right: var(--bs-navbar-brand-margin-end);
+    font-size: var(--bs-navbar-brand-font-size);
+    color: var(--bs-navbar-brand-color);
+    text-decoration: none;
+    white-space: nowrap;
+  }
 
 
 
